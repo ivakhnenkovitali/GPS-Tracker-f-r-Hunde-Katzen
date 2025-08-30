@@ -29,4 +29,10 @@ ________________________________________________
 _______________________________________________
 ![GPS_Tracker](https://github.com/user-attachments/assets/0b291fe5-5907-4bd8-9fa3-6130269011f6)
 
+_________________________________________________________
+<img width="900" height="764" alt="schema" src="https://github.com/user-attachments/assets/9d1fb707-1858-4045-91c0-8032275978f0" />
+
+
+
+
 
