@@ -58,7 +58,7 @@ ___________________________________________________
 Испытатель портатипа GPS.
 ____________________________________________________
 
-https://github.com/user-attachments/assets/be331b6f-0d35-45c7-a37c-ddf21ea8ef43    Испытатель портатипа GPS.
+https://github.com/user-attachments/assets/be331b6f-0d35-45c7-a37c-ddf21ea8ef43   
 ________________________________________________
 _______________________________________________
 ![GPS_Tracker](https://github.com/user-attachments/assets/0b291fe5-5907-4bd8-9fa3-6130269011f6)
