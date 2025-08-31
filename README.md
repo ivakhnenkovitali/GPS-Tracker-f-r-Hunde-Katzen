@@ -1,5 +1,7 @@
 # GPS-Tracker-f-r-Hunde-Katzen
 Prototyp-Прототип-Prototype
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Prototyp+Прототип+Prototype+.)](https://git.io/typing-svg) 
 ____________________________________________________
 __________________________________________________
 
