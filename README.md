@@ -7,15 +7,15 @@ GPS-tracker, qui se place facilement dans un petit boîtier, par exemple pour le
 
 Caractéristiques pour une utilisation sur les animaux :
 
-Taille et poids — ESP32 + SIM800L + NEO-6M + batterie peuvent être intégrés dans un boîtier de la taille d’un petit porte-clés.
+Taille et poids - ESP32 + SIM800L + NEO-6M + batterie peuvent être intégrés dans un boîtier de la taille d’un petit porte-clés.
 
-Alimentation — Batterie Li-Ion 3,7 V, capacité de 500–1000 mAh possible pour plusieurs jours d’autonomie.
+Alimentation - Batterie Li-Ion 3,7 V, capacité de 500–1000 mAh possible pour plusieurs jours d’autonomie.
 
-Communication — GSM/SMS/GPRS pour que le tracker transmette les coordonnées vers un téléphone/serveur.
+Communication - GSM/SMS/GPRS pour que le tracker transmette les coordonnées vers un téléphone/serveur.
 
-Antennes — Les antennes GPS et GSM doivent être positionnées de manière à ne pas être couvertes par le corps de l’animal ou par des éléments métalliques du boîtier.
+Antennes - Les antennes GPS et GSM doivent être positionnées de manière à ne pas être couvertes par le corps de l’animal ou par des éléments métalliques du boîtier.
 
-Logique logicielle — L’ESP32 peut collecter les coordonnées toutes les N minutes et les envoyer, ou bien fonctionner en mode de suivi « en direct ».
+Logique logicielle - L’ESP32 peut collecter les coordonnées toutes les N minutes et les envoyer, ou bien fonctionner en mode de suivi « en direct ».
 
 
 _______________________________________________
@@ -23,15 +23,15 @@ GPS-Tracker, der leicht in ein kleines Gehäuse passt, zum Beispiel für Katzen 
 
 Besonderheiten für die Nutzung bei Tieren:
 
-Größe und Gewicht — ESP32 + SIM800L + NEO-6M + Batterie lassen sich in einem Gehäuse von der Größe eines kleinen Schlüsselanhängers unterbringen.
+Größe und Gewicht - ESP32 + SIM800L + NEO-6M + Batterie lassen sich in einem Gehäuse von der Größe eines kleinen Schlüsselanhängers unterbringen.
 
-Stromversorgung — Li-Ion-Akku 3,7 V, Kapazität von 500–1000 mAh ermöglicht mehrere Tage autonomen Betrieb.
+Stromversorgung - Li-Ion-Akku 3,7 V, Kapazität von 500–1000 mAh ermöglicht mehrere Tage autonomen Betrieb.
 
-Verbindung — GSM/SMS/GPRS, damit der Tracker die Koordinaten an ein Telefon/Server sendet.
+Verbindung - GSM/SMS/GPRS, damit der Tracker die Koordinaten an ein Telefon/Server sendet.
 
-Antennen — GPS- und GSM-Antennen sollten so platziert werden, dass sie nicht durch den Körper des Tieres oder durch Metallteile des Gehäuses abgeschirmt werden.
+Antennen - GPS- und GSM-Antennen sollten so platziert werden, dass sie nicht durch den Körper des Tieres oder durch Metallteile des Gehäuses abgeschirmt werden.
 
-Software-Logik — Der ESP32 kann die Koordinaten alle N Minuten erfassen und senden oder im „Live“-Tracking-Modus arbeiten.
+Software-Logik - Der ESP32 kann die Koordinaten alle N Minuten erfassen und senden oder im „Live“-Tracking-Modus arbeiten.
 
 _____________________________________________________
 
@@ -39,15 +39,15 @@ _____________________________________________________
 
 Особенности для использования на животных:
 
-Размер и вес — ESP32 + SIM800L + NEO-6M + батарея легко уложить в корпус размером с небольшой брелок.
+Размер и вес - ESP32 + SIM800L + NEO-6M + батарея легко уложить в корпус размером с небольшой брелок.
 
-Питание — Li-Ion аккумулятор 3.7 В, можно использовать 500–1000 мА·ч для нескольких дней автономной работы.
+Питание - Li-Ion аккумулятор 3.7 В, можно использовать 500–1000 мА·ч для нескольких дней автономной работы.
 
-Связь — GSM/SMS/GPRS, чтобы трекер передавал координаты на телефон/сервер.
+Связь - GSM/SMS/GPRS, чтобы трекер передавал координаты на телефон/сервер.
 
-Антенны — GPS и GSM антенны нужно располагать так, чтобы их не перекрывали тело животного или металлические элементы корпуса.
+Антенны - GPS и GSM антенны нужно располагать так, чтобы их не перекрывали тело животного или металлические элементы корпуса.
 
-Программная логика — ESP32 может собирать координаты каждые N минут и отправлять их, либо работать в режиме «живого» трекинга.
+Программная логика - ESP32 может собирать координаты каждые N минут и отправлять их, либо работать в режиме «живого» трекинга.
 
 
 ____________________________________________________
